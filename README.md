@@ -164,8 +164,8 @@ projects, and picking apart how the systems I test are built underneath.
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+<p align="center"><sub>📫 <b>Reach me</b></sub></p>
 <p align="center">
-  <sub>📫 Reach me: </sub>
   <a href="https://kriv-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mike-kenneth-rivera"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kennethrivera3103@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
