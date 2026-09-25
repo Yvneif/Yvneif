@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Associate Software QA Engineer</b><br/>
-  Angeles City, Philippines · QA · Cloud <br/>
+  Angeles City, Philippines · QA · Cloud · CI quality gates<br/>
   <sub>Working toward data engineering.</sub>
 </p>
 
@@ -74,6 +74,22 @@ A CLI that captures a URL in Chromium, Firefox and WebKit across desktop, tablet
 
 ## 🧰 Toolbox
 
+<p align="center">
+<img alt="Python" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/C%23-000000?style=flat-square" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=flat-square" />
+<img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-000000?style=flat-square&logo=dotnet&logoColor=white" />
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+<details>
+<summary>See full toolbox (languages, backend, testing, data/BI, tooling)</summary>
+<br/>
+
 **Languages**
 
 <img alt="C#" src="https://img.shields.io/badge/C%23-000000?style=flat-square" />
@@ -115,6 +131,8 @@ A CLI that captures a URL in Chromium, Firefox and WebKit across desktop, tablet
 <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+
+</details>
 
 ## 📜 Certifications
 
