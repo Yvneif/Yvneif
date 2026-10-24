@@ -103,19 +103,26 @@ Group thesis project: a fine-tuned ResNet50 model that identifies rice pests fro
 **Languages**
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,py,java,js,ts,html,css,php&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=cs,py,java,js,ts,html,css,php&theme=light" alt="C#, Python, Java, JavaScript, TypeScript, HTML, CSS, PHP" />
-  </picture>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
 **Frameworks & libraries**
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,laravel,flask,tailwind&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,laravel,flask,tailwind&theme=light" alt="React, Next.js, Node.js, Vite, Laravel, Flask, Tailwind CSS" />
-  </picture>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-9135FF?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
 <p align="center">
@@ -128,23 +135,20 @@ Group thesis project: a fine-tuned ResNet50 model that identifies rice pests fro
 **Backend & databases**
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" alt="MySQL, SQLite" />
-  </picture>
-</p>
-
-<p align="center">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
 </p>
 
 **Tools & platforms**
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,githubactions,vercel,aws&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vercel,aws&theme=light" alt="Git, GitHub, Docker, GitHub Actions, Vercel, AWS" />
-  </picture>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" />
 </p>
 
 <p align="center">
