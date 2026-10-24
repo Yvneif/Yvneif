@@ -1,19 +1,6 @@
 <!-- ─────────────────────────────────────────────────────────────────────
      Profile README — Mike Kenneth S. Rivera (@Yvneif)
      Format: a GitHub Actions workflow run. The whole page reads as one.
-
-     Quick tweak guide:
-     • Job list & statuses → the ```diff "run overview" block. Keep the
-       dot columns aligned (name padded to 14 chars, 12 dots).
-     • Job sections → each "## ✓ `job-name`" maps 1:1 to a line in the
-       overview. If you add a job, add it to the yaml header + overview +
-       footer summary so the counts still add up.
-     • Log timestamps in the cloud-devops block are flavor — bump them
-       when you ship something new.
-     • Run statistics → delete the <details> at the bottom if you'd
-       rather not depend on third-party stat services.
-     • Icon rows come from skillicons.dev — no generic `sql` slug exists;
-       the SQLite icon stands in for it.
    ───────────────────────────────────────────────────────────────────── -->
 
 <h1 align="center">Mike Kenneth S. Rivera</h1>
@@ -143,6 +130,14 @@ Group thesis project: a fine-tuned ResNet50 model that identifies rice pests fro
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet,sqlite,laravel,tailwind,docker,githubactions,git,aws&theme=dark" />
     <img src="https://skillicons.dev/icons?i=dotnet,sqlite,laravel,tailwind,docker,githubactions,git,aws&theme=light" alt="ASP.NET Core, SQLite, Laravel, Tailwind CSS, Docker, GitHub Actions, Git, AWS" />
   </picture>
+</p>
+
+**Additional packages**
+
+<p align="center">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
+  <img alt="Razor Pages" src="https://img.shields.io/badge/Razor_Pages-512BD4?style=flat-square" />
+  <img alt="EF Core" src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square" />
 </p>
 
 **QA & testing**
