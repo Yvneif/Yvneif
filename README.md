@@ -67,39 +67,25 @@ Four artifacts uploaded to this run:
 
 A thesis archive for schools that need a controlled publishing workflow: students submit PDF manuscripts, a faculty review board approves or returns them with a full audit trail, and approved work becomes a public, searchable catalog.
 
-<img alt="ASP.NET Core 8" src="https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img alt="EF Core" src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square" />
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img alt="xUnit" src="https://img.shields.io/badge/xUnit-512BD4?style=flat-square" />
-<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+`asp.net core 8 · ef core · sqlite · xunit · playwright · github actions`
 
 ### 📦 [QA-as-Code Starter](https://github.com/Yvneif/QA-as-Code-Starter)
 
 A clone-and-go Playwright + TypeScript suite built around a Page Object Model, running a three-browser GitHub Actions matrix (Chromium, Firefox, WebKit) — so a regression shows up as a red build instead of surfacing two sprints later.
 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img alt="Page Object Model" src="https://img.shields.io/badge/Page_Object_Model-000000?style=flat-square" />
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+`typescript · playwright · page object model · github actions`
 
 ### 📦 [CrossBrowser-Check](https://github.com/Yvneif/CrossBrowser-Check)
 
 A CLI that captures a URL in Chromium, Firefox and WebKit across desktop, tablet and mobile viewports, pixel-diffs every capture against an accepted baseline, and writes a self-contained HTML gallery with a draggable before/after slider. Nine combinations in under two minutes, with CI-ready exit codes.
 
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js_20%2B-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img alt="pixelmatch" src="https://img.shields.io/badge/pixelmatch-444444?style=flat-square" />
-<img alt="License" src="https://img.shields.io/badge/License-MIT-A6A6A6?style=flat-square" />
+`node.js 20+ · playwright · pixelmatch · mit`
 
 ### 📦 [RicePest](https://github.com/Yvneif/RicePest)
 
 Group thesis project: a fine-tuned ResNet50 model that identifies rice pests from camera or uploaded images and recommends control measures — shipped as an installable, offline-capable PWA, so field use doesn't depend on signal.
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/Keras_%2F_TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img alt="PWA" src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square" />
+`python · flask · keras / tensorflow · pwa`
 
 <details>
 <summary><b>📦 Additional artifacts</b> — coursework and side projects (screenshots on the <a href="https://kriv-portfolio.vercel.app/projects">portfolio</a>)</summary>
@@ -118,26 +104,58 @@ Group thesis project: a fine-tuned ResNet50 model that identifies rice pests fro
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,py,js,ts,php&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=cs,py,js,ts,php&theme=light" alt="C#, Python, JavaScript, TypeScript, PHP" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,py,java,js,ts,html,css,php&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,py,java,js,ts,html,css,php&theme=light" alt="C#, Python, Java, JavaScript, TypeScript, HTML, CSS, PHP" />
   </picture>
 </p>
 
-**Backend, data, cloud & tooling**
+**Frameworks & libraries**
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet,sqlite,laravel,tailwind,docker,githubactions,git,aws&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=dotnet,sqlite,laravel,tailwind,docker,githubactions,git,aws&theme=light" alt="ASP.NET Core, SQLite, Laravel, Tailwind CSS, Docker, GitHub Actions, Git, AWS" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,laravel,flask,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,laravel,flask,tailwind&theme=light" alt="React, Next.js, Node.js, Vite, Laravel, Flask, Tailwind CSS" />
   </picture>
 </p>
 
-**Additional packages**
+<p align="center">
+  <img alt=".NET 8" src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="Razor Pages" src="https://img.shields.io/badge/Razor_Pages-512BD4?style=flat-square" />
+  <img alt="EF Core" src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square" />
+</p>
+
+**Backend & databases**
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" alt="MySQL, SQLite" />
+  </picture>
+</p>
 
 <p align="center">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
-  <img alt="Razor Pages" src="https://img.shields.io/badge/Razor_Pages-512BD4?style=flat-square" />
-  <img alt="EF Core" src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square" />
+</p>
+
+**Tools & platforms**
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,githubactions,vercel,aws&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vercel,aws&theme=light" alt="Git, GitHub, Docker, GitHub Actions, Vercel, AWS" />
+  </picture>
+</p>
+
+<p align="center">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img alt="SAP Analytics Cloud" src="https://img.shields.io/badge/SAP_Analytics_Cloud-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+  <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img alt="Ruff" src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square" />
+  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=F7B93E" />
+  <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" />
 </p>
 
 **QA & testing**
@@ -148,18 +166,17 @@ Group thesis project: a fine-tuned ResNet50 model that identifies rice pests fro
   <img alt="Vitest" src="https://img.shields.io/badge/Vitest-729B1B?style=flat-square&logo=vitest&logoColor=white" />
   <img alt="xUnit" src="https://img.shields.io/badge/xUnit-512BD4?style=flat-square" />
   <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9ED9?style=flat-square&logo=pytest&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="Xray" src="https://img.shields.io/badge/Xray-0052CC?style=flat-square" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=F7B93E" />
 </p>
 
-**Data & BI**
+**Special topics**
 
 <p align="center">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" />
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img alt="SAP Analytics Cloud" src="https://img.shields.io/badge/SAP_Analytics_Cloud-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img alt="ML / ResNet50" src="https://img.shields.io/badge/ML_%2F_ResNet50-444444?style=flat-square" />
 </p>
 
 ## ✓ `credentials`
